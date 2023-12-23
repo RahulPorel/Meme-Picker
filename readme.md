@@ -8,4 +8,4 @@ This app give you gif based on your choice and also you have option to have vide
 23 - 12 - 2023
 
 # Author
-Rahul Bidhan Porel# Meme-Picker
+Rahul Bidhan Porel
